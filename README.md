@@ -3,7 +3,7 @@
 <img src="/logos/sqlDicas.png"  align="right" width="350px" alt="SQL Dicas" />
 <!-- logo SQLDICAS fim-->
 
-### >> `Engenheiro de Dados e DBA` << <br> 
+### >> `Engenheiro de Dados` << <br> 
 
 www.WILLDEGLAN.com.br 
 
@@ -160,3 +160,6 @@ Aqui armazeno os codigos, scripts e notebooks <br>
   <a href="https://instagram.com/sqldicas" target="_blank">            <img src="https://img.shields.io/static/v1?message=SQLDicas&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27"> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.willdeglan.com.br" target="_blank">             <img src="https://img.shields.io/static/v1?message=willdeglan.com.br&logo=medium&label=&color=00a8ff&logoColor=write&labelColor=&style=for-the-badge"  height="27"> </a> &nbsp;&nbsp;&nbsp;
 </div>
+
+<br> <br> 
+```Perfil atualizado em agosto/2025```
